@@ -16,7 +16,7 @@ export default function Header({title}:HeaderProps):JSX.Element{
               <div className="circle"></div>
             </div> */}
             
-            {/* Nuevo toggle icono */}
+            {/* Nuevo toggle */}
             <div className="menuIcon">
               <i className="fas fa-bars"></i>
             </div>
