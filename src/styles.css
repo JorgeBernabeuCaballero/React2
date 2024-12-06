@@ -1,0 +1,60 @@
+:root{
+    background-color: rgb(255, 255, 255);
+}
+
+.notificationsFrame{
+    top: 0;
+}
+
+
+img{
+    margin:10 10 10 10 ;
+    border-radius: 50%;
+    border-color: black;
+    border: solid;
+}
+
+.time{
+    color: yellow;
+    font-size: small;
+}
+
+p{
+font-family: 'Times New Roman', Times, serif;
+}
+p:hover{
+    color: greenyellow;
+}
+
+h2{
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content{
+    display: flex;
+    margin-top: 5%;
+}
+
+.item{
+    flex: 1;
+}
+
+/* General styling for the header */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #31abfd;
+    color: white;
+    position:sticky;
+    top:0;
+    left:0;
+    width: 100%;
+  }
+
+i{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
